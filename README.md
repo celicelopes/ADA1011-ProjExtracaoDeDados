@@ -4,7 +4,7 @@ Grupo:
 [Caio Uehara](https://github.com/caiouehara)
 [Eric de Carvalho](https://github.com/EricRdC)
 [Caroline Brum]()
-[Isaac]()
+[Isaac da Silva Carvalho Jr.](https://github.com/saacjr)
 
 ## Sistema de Monitoramento de Avanços no Campo da Genômica
 
