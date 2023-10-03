@@ -4,7 +4,6 @@ Grupo:
 [Caio Uehara](https://github.com/caiouehara)
 [Eric de Carvalho](https://github.com/EricRdC)
 [Caroline Brum]()
-[Isaac da Silva Carvalho Jr.](https://github.com/saacjr)
 
 ## Sistema de Monitoramento de Avanços no Campo da Genômica
 
@@ -49,6 +48,6 @@ Atividades que precisam ser realizadas pelo grupo definido em aula.
 O grupo precisa construir o pipeline de dados seguindo os requisitos das atividades principais e escolher entre a Opção 1 e Opção 2 para desenvolvimento.
 
 
-[img1]:/img1.png
-[img2]:/img2.png
-[img3]:/img3.png
+[img1]:assets/img1.png
+[img2]:assets/img2.png
+[img3]:assets/img3.png
