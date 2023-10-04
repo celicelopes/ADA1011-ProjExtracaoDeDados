@@ -3,7 +3,7 @@ Grupo:
 [Celice Lopes](https://github.com/celicelopes)
 [Caio Uehara](https://github.com/caiouehara)
 [Eric de Carvalho](https://github.com/EricRdC)
-[Caroline Brum]()
+[Caroline Brum](https://github.com/CarolPBrum)
 
 ## Sistema de Monitoramento de Avanços no Campo da Genômica
 
